@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Yordanyan
-- 👀 I’m interested in Backend Engineering
-- 🌱 I’m currently learning C/C++
-- 💞️ I’m looking to collaborate on Work
+- 👀 I’m interested in Software Engineering
+- 🌱 I’m currently learning Javascript
 - 📫 How to reach me @yordanyaaan #anywhere
 
